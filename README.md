@@ -1,10 +1,10 @@
-# chains.json Repo
+# Chains.json Repo
 A small repo for hosting a template chains.json and the chain-ids of mulitple EOSIO Chains. Feel free to open a pull request to submit a missing chainid.
 
 ## These current Chain-ids are included:
-1. Wax Mainnet Chainid - `1064487b3cd1a897ce03ae5b6a865651747e2e152090f99c1d19d44e01aea5a4`
-2. Wax Testnet Chainid - `f16b1833c747c43682f4386fca9cbb327929334a762755ebec17f6f23c9b8a12`
-3. EOS Chainid - `aca376f206b8fc25a6ed44dbdc66547c36c6c33e3a119ffbeaef943642f0e906`
+1. EOS Chainid - `aca376f206b8fc25a6ed44dbdc66547c36c6c33e3a119ffbeaef943642f0e906`
+2. Wax Mainnet Chainid - `1064487b3cd1a897ce03ae5b6a865651747e2e152090f99c1d19d44e01aea5a4`
+3. Wax Testnet Chainid - `f16b1833c747c43682f4386fca9cbb327929334a762755ebec17f6f23c9b8a12`
 4. BOS Mainnet Chainid - `d5a3d18fbb3c084e3b1f3fa98c21014b5f3db536cc15d08f9f6479517c6a3d86`
 5. BOS Testnet Chainid - `33cc2426f1b258ef8c798c34c0360b31732ea27a2d7e35a65797850a86d1ba85`
 6. Kylin Chainid - `5fff1dae8dc8e2fc4d5b23b2c7665c97f9e9d8edf2b6485a86ba311c25639191`
